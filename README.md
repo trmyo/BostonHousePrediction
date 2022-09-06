@@ -37,7 +37,7 @@ git config --global user.name "trmyo"
 
 To configure email of github
 '''
-git config --global user.email "trmyo@yahoo.com"
+git config --global user.email "example@yahoo.com"
 '''
 
 To commit changes in Github repository
